@@ -1,0 +1,56 @@
+F:\My Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\WorldFramework.dll
+F:\My Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\WorldFramework.pdb
+F:\My Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\OpenTK.Compatibility.dll
+F:\My Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\OpenTK.dll
+F:\My Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\OpenTK.GLControl.dll
+F:\My Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\OpenTK.xml
+F:\My Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\OpenTK.Compatibility.xml
+F:\My Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\OpenTK.GLControl.xml
+F:\My Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\My Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\obj\x86\Debug\WorldFramework.Properties.Resources.resources
+F:\My Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\My Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\My Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\obj\x86\Debug\WorldFramework.dll
+F:\My Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\obj\x86\Debug\WorldFramework.pdb
+C:\Users\t-liwe\Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\WorldFramework.dll
+C:\Users\t-liwe\Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\WorldFramework.pdb
+C:\Users\t-liwe\Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\t-liwe\Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\OpenTK.dll
+C:\Users\t-liwe\Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\OpenTK.GLControl.dll
+C:\Users\t-liwe\Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\OpenTK.xml
+C:\Users\t-liwe\Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\OpenTK.Compatibility.xml
+C:\Users\t-liwe\Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\bin\Debug\OpenTK.GLControl.xml
+C:\Users\t-liwe\Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\t-liwe\Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\obj\x86\Debug\WorldFramework.Properties.Resources.resources
+C:\Users\t-liwe\Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\t-liwe\Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\t-liwe\Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\obj\x86\Debug\WorldFramework.dll
+C:\Users\t-liwe\Documents\Visual Studio 2010\Projects\Vic's Visual World\WorldFramework\obj\x86\Debug\WorldFramework.pdb
+D:\Projects\Vic's Visual World\11.9.27 Skybox加入cubemap与鼠标控制，未完\WorldFramework\bin\Debug\WorldFramework.dll
+D:\Projects\Vic's Visual World\11.9.27 Skybox加入cubemap与鼠标控制，未完\WorldFramework\bin\Debug\WorldFramework.pdb
+D:\Projects\Vic's Visual World\11.9.27 Skybox加入cubemap与鼠标控制，未完\WorldFramework\bin\Debug\OpenTK.Compatibility.dll
+D:\Projects\Vic's Visual World\11.9.27 Skybox加入cubemap与鼠标控制，未完\WorldFramework\bin\Debug\OpenTK.dll
+D:\Projects\Vic's Visual World\11.9.27 Skybox加入cubemap与鼠标控制，未完\WorldFramework\bin\Debug\OpenTK.GLControl.dll
+D:\Projects\Vic's Visual World\11.9.27 Skybox加入cubemap与鼠标控制，未完\WorldFramework\bin\Debug\OpenTK.xml
+D:\Projects\Vic's Visual World\11.9.27 Skybox加入cubemap与鼠标控制，未完\WorldFramework\bin\Debug\OpenTK.Compatibility.xml
+D:\Projects\Vic's Visual World\11.9.27 Skybox加入cubemap与鼠标控制，未完\WorldFramework\bin\Debug\OpenTK.GLControl.xml
+D:\Projects\Vic's Visual World\11.9.27 Skybox加入cubemap与鼠标控制，未完\WorldFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Vic's Visual World\11.9.27 Skybox加入cubemap与鼠标控制，未完\WorldFramework\obj\x86\Debug\WorldFramework.Properties.Resources.resources
+D:\Projects\Vic's Visual World\11.9.27 Skybox加入cubemap与鼠标控制，未完\WorldFramework\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Vic's Visual World\11.9.27 Skybox加入cubemap与鼠标控制，未完\WorldFramework\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Vic's Visual World\11.9.27 Skybox加入cubemap与鼠标控制，未完\WorldFramework\obj\x86\Debug\WorldFramework.dll
+D:\Projects\Vic's Visual World\11.9.27 Skybox加入cubemap与鼠标控制，未完\WorldFramework\obj\x86\Debug\WorldFramework.pdb
+D:\Projects\Vic's Visual World\11.9.28 Skybox加入cubemap与鼠标控制，仅水平方向\WorldFramework\bin\Debug\WorldFramework.dll
+D:\Projects\Vic's Visual World\11.9.28 Skybox加入cubemap与鼠标控制，仅水平方向\WorldFramework\bin\Debug\WorldFramework.pdb
+D:\Projects\Vic's Visual World\11.9.28 Skybox加入cubemap与鼠标控制，仅水平方向\WorldFramework\bin\Debug\OpenTK.Compatibility.dll
+D:\Projects\Vic's Visual World\11.9.28 Skybox加入cubemap与鼠标控制，仅水平方向\WorldFramework\bin\Debug\OpenTK.dll
+D:\Projects\Vic's Visual World\11.9.28 Skybox加入cubemap与鼠标控制，仅水平方向\WorldFramework\bin\Debug\OpenTK.GLControl.dll
+D:\Projects\Vic's Visual World\11.9.28 Skybox加入cubemap与鼠标控制，仅水平方向\WorldFramework\bin\Debug\OpenTK.xml
+D:\Projects\Vic's Visual World\11.9.28 Skybox加入cubemap与鼠标控制，仅水平方向\WorldFramework\bin\Debug\OpenTK.Compatibility.xml
+D:\Projects\Vic's Visual World\11.9.28 Skybox加入cubemap与鼠标控制，仅水平方向\WorldFramework\bin\Debug\OpenTK.GLControl.xml
+D:\Projects\Vic's Visual World\11.9.28 Skybox加入cubemap与鼠标控制，仅水平方向\WorldFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Vic's Visual World\11.9.28 Skybox加入cubemap与鼠标控制，仅水平方向\WorldFramework\obj\x86\Debug\WorldFramework.Properties.Resources.resources
+D:\Projects\Vic's Visual World\11.9.28 Skybox加入cubemap与鼠标控制，仅水平方向\WorldFramework\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Vic's Visual World\11.9.28 Skybox加入cubemap与鼠标控制，仅水平方向\WorldFramework\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Vic's Visual World\11.9.28 Skybox加入cubemap与鼠标控制，仅水平方向\WorldFramework\obj\x86\Debug\WorldFramework.dll
+D:\Projects\Vic's Visual World\11.9.28 Skybox加入cubemap与鼠标控制，仅水平方向\WorldFramework\obj\x86\Debug\WorldFramework.pdb

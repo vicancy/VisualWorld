@@ -1,0 +1,119 @@
+﻿
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <title>Google Maps JavaScript API Example</title>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript">
+
+        function addCustomControl() {
+            // Create a div to hold the control.
+            var controlDiv = document.createElement('DIV');
+
+            // Set CSS styles for the DIV containing the control
+            // Setting padding to 5 px will offset the control
+            // from the edge of the map
+            controlDiv.style.padding = '5px';
+
+            // Set CSS for the control border
+            var controlUI = document.createElement('DIV');
+            controlUI.style.backgroundColor = 'white';
+            controlUI.style.borderStyle = 'solid';
+            controlUI.style.borderWidth = '2px';
+            controlUI.style.cursor = 'pointer';
+            controlUI.style.textAlign = 'center';
+            controlUI.title = 'Click to set the map to Home';
+            controlDiv.appendChild(controlUI);
+
+            // Set CSS for the control interior
+            var controlText = document.createElement('DIV');
+            controlText.style.fontFamily = 'Arial,sans-serif';
+            controlText.style.fontSize = '12px';
+            controlText.style.paddingLeft = '4px';
+            controlText.style.paddingRight = '4px';
+            controlText.innerHTML = 'Home';
+            controlUI.appendChild(controlText);
+            return controlDiv;
+        }
+        function initialize() {
+            var point = new google.maps.LatLng(31, 122);
+            var options = {
+                zoom: 7,
+                center: point,
+                mapTypeId: google.maps.MapTypeId.HYBRID,
+                scaleControl: true,
+                navigationControl: true,
+                navigationControlOptions: {
+                    style: google.maps.NavigationControlStyle.ZOOM_PAN
+                }
+            };
+            var map = new google.maps.Map(document.getElementById("map_canvas"), options);
+            google.maps.event.addListener(map, "mousemove",
+            function (event) {
+                document.getElementById("output").innerHTML = event.latLng;
+            });
+            function createMarker(point, text) {
+                var marker = new google.maps.Marker({
+                    position: point,
+                    map: map,
+                    title: text
+                });
+                google.maps.event.addListener(marker, "mouseover",
+                function () {
+
+                });
+            }
+            var text = 'isdlfj';
+            createMarker(point, text);
+            var infowindow = new google.maps.InfoWindow(
+            {
+                content: "ENNNN",
+                size: new google.maps.Size(10, 10),
+                position: point
+            }
+            );
+            //infowindow.open(map);
+            var control = addCustomControl();
+            control.index = 0;
+            map.controls[google.maps.ControlPosition.TOP_RIGHT].push(control);
+
+            var polyOptions = { strokeColor: '#000000',
+                strokeOpacity: 1.0,
+                strokeWeight: 3
+            }
+            var lineEnd = false;
+            var poly = new google.maps.Polyline(polyOptions);
+            var path;
+            poly.setMap(map);
+            google.maps.event.addListener(map, 'dblclick', function (event) {
+                alert(path.getLength());
+                if (path.getLength() > 0) {
+                    var polyOptions1 = { strokeColor: '#ff0000',
+                        strokeOpacity: 0.8,
+                        strokeWeight: 3
+                    }
+                    poly.setOptions(polyOptions1);
+                    lineEnd = true;
+                }
+            });
+            google.maps.event.addListener(map, 'click', function (event) {
+                if (!lineEnd) {
+                    path = poly.getPath();
+                    path.push(event.latLng);
+                    var marker = new google.maps.Marker({
+                        position: event.latLng,
+                        title: '#' + path.getLength(),
+                        map: map
+                    })
+                };
+                
+
+            });
+        }        
+    </script>
+  </head>
+  <body onload="initialize()">
+    <div id="map_canvas" style="width: 300px; height: 300px"></div>
+    <div id="output"></div>
+  </body>
+</html>
